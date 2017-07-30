@@ -4,9 +4,9 @@ Read the [challenge](https://drive.google.com/a/james.finance/file/d/0Bwi23MPVI4
 
 # How to make submissions
 
-1. Fill in the key variable with the key given to you
+1. Fill in the key variable with the key given to you by sam
 2. Register this function in the same notebook that you
-   have the dataframe with your predictions.
+   have the dataframe with your predictions
 3. Call `submit(probas_df)`
 
 ```python
